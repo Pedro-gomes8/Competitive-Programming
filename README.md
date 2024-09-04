@@ -1,1 +1,1 @@
-This repository represents my studies throughout the 'DEFI', a self-proposed challenge motivated by Ecole Centrale de Lille.
+This repository represents my studies throughout the 'DEFI', a self-proposed challenge motivated by Ecole Centrale de Lille, in alignment with my interest about programming problems and to prepare myself for future interviews.
